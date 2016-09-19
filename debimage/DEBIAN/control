@@ -1,0 +1,10 @@
+Package: Mail Buddy
+Version: 0.01
+Architecture: all
+Maintainer: Email Ids
+Installed-Size: 2
+Depends: Write the dependencies here
+Section: extras
+Priority: optional
+Homepage: your homepage
+Description: describe
