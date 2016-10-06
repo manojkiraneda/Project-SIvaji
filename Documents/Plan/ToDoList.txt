@@ -1,0 +1,10 @@
+Project Sivaji :
+
+3D Object Creation - [Manoj]
+Object Animation  [Manoj]
+
+Creating bare screen in Python [Sundar]
+Injecting images in the form [Sundar]
+Moving the screen [Sundar]
+
+Management and Co-Ordination [Ramesh]
